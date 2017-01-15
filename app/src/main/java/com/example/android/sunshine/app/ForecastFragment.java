@@ -36,10 +36,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//import java.sql.Time; //This module almost fucked me. Correct module for time is below
-
-
-
 /**
  * Created by sumnererhard on 12/27/16.
  */
